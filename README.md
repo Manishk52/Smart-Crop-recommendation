@@ -52,8 +52,5 @@ python app.py
 - Expand to mobile applications for broader access.
 - Develop advanced predictive models utilizing deep learning.
 
-## License
-This project is licensed under the MIT License. For full details, refer to the [LICENSE](LICENSE) file.
-
 ---
 *Empowering farmers with technology for a sustainable future!* 🌱
